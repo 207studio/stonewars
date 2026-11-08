@@ -19,4 +19,4 @@ h2{font-size:23px;line-height:1.35;margin:36px 0 14px}h3{font-size:18px;margin:0
 footer{border-top:1px solid var(--line);font-size:13px;color:var(--muted);display:flex;justify-content:space-between;gap:20px;margin-top:48px}
 .skip{position:absolute;left:-10000px}.skip:focus{left:16px;top:8px;background:var(--bg);padding:10px}
 a:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
-@media(max-width:650px){header,main,footer{padding:20px}nav{gap:16px}.grid{grid-template-columns:1fr}.lead{font-size:18px}.article h1{font-size:36px}footer{flex-direction:column}}
+@media(max-width:650px){header,main,footer{padding:20px}nav{gap:16px}.grid{grid-template-columns:1fr}.lead{font-size:18px}.article h1{font-size:36px}footer{flex-direction:column}}.card .ko{margin-top:8px}
